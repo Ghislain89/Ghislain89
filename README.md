@@ -21,12 +21,13 @@ Mostly at the deTesters, TestCoders and TechChamps meetups in the Werkspoorkathe
 - 🎤 **Introduction to Testcontainers**: real Docker containers in your tests, with Quarkus Dev Services
 - 🎓 **[Playwright UI & API training](https://ghislain.dev/playwright/)**: hands-on, using [booker-platform](https://github.com/Ghislain89/booker-platform) as the practice app
 
-## Stats
+## Contributions
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ghislain89&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ghislain89&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ghislain89/Ghislain89/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ghislain89/Ghislain89/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Ghislain89/Ghislain89/output/github-snake.svg" />
+</picture>
 
 ---
 
